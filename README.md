@@ -1,3 +1,3 @@
 # TIme-Series-Forecasting
 
-The data for this project is taken from Kaggle website.
+Wikipedia's Time Series Data is used here for Analysis.
